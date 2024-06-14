@@ -158,7 +158,7 @@ section .title::after{
 .home{
     display: flex;
     height: 100vh;
-    color: #fff;
+/*     color: #fff; */
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
